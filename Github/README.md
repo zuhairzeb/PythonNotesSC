@@ -1,7 +1,4 @@
 # PythonNotesSC
- Here's an updated version of the README with the Python Roadmap included:
-
----
 
 # 🐍 Python Notes: From Basics to Advanced
 
