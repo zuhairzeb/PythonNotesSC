@@ -1,3 +1,8 @@
+#Assigning Values to Variables
+
+#Example 1: Assigning a Single Value
+
+
 age = 25
 name = "John"
 height = 5.9
